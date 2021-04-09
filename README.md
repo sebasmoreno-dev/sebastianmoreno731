@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sebastian Moreno 
-- 👀 I’m a Frontend Developer in porcess
+- 👀 I’m a Frontend Developer in process
 - 🌱 I’m currently learning HTML - CSS Js
 - 📫  Platzi Master C7
 
